@@ -1,4 +1,5 @@
 <div align= center>
-<img width="664" height="521" alt="image (1)" src="https://github.com/user-attachments/assets/6743ccc4-928e-4a16-baf1-93a727384dbd" />
+<img width="826" height="439" alt="image_2026-09-16_163813801" src="https://github.com/user-attachments/assets/d1d25cde-80bc-4ad4-ba3d-f38a812c3600" />
 
-follow [main](https://github.com/Cubsquel)
+  
+  follow [main](https://github.com/Cubsquel)
